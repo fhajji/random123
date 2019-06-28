@@ -7,7 +7,7 @@ Tracking D. E. Shaw Research's Random123 Library from their paper
 
 This is a verbatim, unmodified copy of the Random123 Library
 as described in the paper
-\[[SMDS11]\](https://doi.org/10.1145/2063384.2063405) 
+[\[SMDS11\]](https://doi.org/10.1145/2063384.2063405) 
 by John K. Salmon, Mark A. Moraes, Ron O. Dror, and David E. Shaw. 
 [free copy](https://www.thesalmons.org/john/random123/papers/random123sc11.pdf).
 

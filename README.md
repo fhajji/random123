@@ -7,9 +7,9 @@ Tracking D. E. Shaw Research's Random123 Library from their paper
 
 This is a verbatim, unmodified copy of the Random123 Library
 as described in the paper
-[SMDS11](https://doi.org/10.1145/2063384.2063405) 
-by John K. Salmon, Mark A. Moraes, Ron O. Dror, and David E. Shaw
-[free copy here](https://www.thesalmons.org/john/random123/papers/random123sc11.pdf).
+\[[SMDS11]\](https://doi.org/10.1145/2063384.2063405) 
+by John K. Salmon, Mark A. Moraes, Ron O. Dror, and David E. Shaw. 
+[free copy](https://www.thesalmons.org/john/random123/papers/random123sc11.pdf).
 
 Documentation is available in the /docs directory,
 and also [online](https://www.thesalmons.org/john/random123/releases/latest/docs/index.html).
@@ -24,6 +24,7 @@ Currently tracked version: **Random123-1.13.2** (0.7 MB, Mar 22, 2019)
 While there are some github repositories with Random123 like
   * [quinoacomputing/Random123](https://github.com/quinoacomputing/Random123)
   * [DEShawResearch/Random123-Boost](https://github.com/DEShawResearch/Random123-Boost)
+
 none of them are tracking current versions.
 
 Use this repository if you wish to add current random123 as an
@@ -36,5 +37,5 @@ README.md file), but don't take my word for it.
 
 ## License
 
-I don't own this software. Please see the file LICENCE for details.
+I don't own this software. Please see the file LICENSE for details.
 
